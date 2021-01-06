@@ -1,0 +1,12 @@
+AMI
+aws
+Crowdstrike
+CrowdStrike
+dir
+html
+https
+json
+lifecycle
+os
+SSM
+
