@@ -1,6 +1,8 @@
 # Cloud-AWS
 A collection of projects supporting AWS Integration
 
+![Python Lint](https://github.com/CrowdStrike/Cloud-AWS/workflows/Python%20application/badge.svg)
+
 ## AWS Network Firewall Integration
 [About the Demo](https://github.com/CrowdStrike/Cloud-AWS/blob/master/Network-Firewall/documentation/overview.md)
 

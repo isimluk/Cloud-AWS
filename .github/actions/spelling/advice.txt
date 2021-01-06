@@ -1,0 +1,1 @@
+Spell checker is not always right. Please add legitimate words to `.github/actions/spelling/allow.txt`
