@@ -1,5 +1,7 @@
 # Description
 Templates for setting up and using AWS Systems Manager to install and uninstall the CrowdStrike Falcon agent in AWS.
+funciton
+folowing
 
 # Important Information: 
 * The solution requires version *2.3.1550.0* or later of the AWS Sytems Manager agent installed on the host.
